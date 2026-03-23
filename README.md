@@ -6,8 +6,6 @@ LinkedIn - (https://www.linkedin.com/in/supritha-gunaga/)
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/supritha_gunaga/](https://www.linkedin.com/in/supritha-gunaga-b148bb3b0?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/supritha_gunaga/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-
-[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/supritha-gunaga-b148bb3b0?utm_source=share_via&utm_content=profile&utm_medium=member_android))
