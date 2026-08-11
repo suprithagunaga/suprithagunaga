@@ -7,3 +7,7 @@ LinkedIn - (https://www.linkedin.com/in/supritha-gunaga/)
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supritha-gunaga-b148bb3b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)   [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/supritha_gunaga)  
+
+💻 Tech Stack:
+
+C HTML5 Python Anaconda Apache Hadoop Apache Hive Flutter OpenCV Apache MySQL MongoDB MicrosoftSQLServer Dribbble Canva Adobe After Effects Keras Matplotlib mlflow NumPy Pandas PyTorch scikit-learn Scipy TensorFlow GitHub GitHub Actions Arduino Meta Steam Xbox Riot Games
